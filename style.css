@@ -34,6 +34,16 @@ ul li a {
   height: 100%;
 }
 
+.navbar__links {
+  color: #fff;
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  text-decoration: none;
+  height: 125px;
+}
+
 a {
   color: #fff;
   display: inline-block;
@@ -58,7 +68,7 @@ a {
   align-items: center;
   text-decoration: none;
   padding: 10px 20px;
-  height: 100%;
+  height: auto;
   width: 9%;
   border: none;
   outline: none;
